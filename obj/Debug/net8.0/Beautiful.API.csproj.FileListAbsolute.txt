@@ -1,0 +1,308 @@
+D:\API\Beautiful.API\bin\Debug\net8.0\appsettings.Development.json
+D:\API\Beautiful.API\bin\Debug\net8.0\appsettings.json
+D:\API\Beautiful.API\bin\Debug\net8.0\Beautiful.API.staticwebassets.endpoints.json
+D:\API\Beautiful.API\bin\Debug\net8.0\Beautiful.API.exe
+D:\API\Beautiful.API\bin\Debug\net8.0\Beautiful.API.deps.json
+D:\API\Beautiful.API\bin\Debug\net8.0\Beautiful.API.runtimeconfig.json
+D:\API\Beautiful.API\bin\Debug\net8.0\Beautiful.API.dll
+D:\API\Beautiful.API\bin\Debug\net8.0\Beautiful.API.pdb
+D:\API\Beautiful.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\API\Beautiful.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\Beautiful.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\Beautiful.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\Beautiful.API\obj\Debug\net8.0\Beautiful.API.csproj.AssemblyReference.cache
+D:\API\Beautiful.API\obj\Debug\net8.0\Beautiful.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Beautiful.API\obj\Debug\net8.0\Beautiful.API.AssemblyInfoInputs.cache
+D:\API\Beautiful.API\obj\Debug\net8.0\Beautiful.API.AssemblyInfo.cs
+D:\API\Beautiful.API\obj\Debug\net8.0\Beautiful.API.csproj.CoreCompileInputs.cache
+D:\API\Beautiful.API\obj\Debug\net8.0\Beautiful.API.MvcApplicationPartsAssemblyInfo.cs
+D:\API\Beautiful.API\obj\Debug\net8.0\Beautiful.API.MvcApplicationPartsAssemblyInfo.cache
+D:\API\Beautiful.API\obj\Debug\net8.0\Beautiful.API.sourcelink.json
+D:\API\Beautiful.API\obj\Debug\net8.0\scopedcss\bundle\Beautiful.API.styles.css
+D:\API\Beautiful.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\API\Beautiful.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\API\Beautiful.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\API\Beautiful.API\obj\Debug\net8.0\staticwebassets\msbuild.Beautiful.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API\Beautiful.API\obj\Debug\net8.0\staticwebassets\msbuild.Beautiful.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\API\Beautiful.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Beautiful.API.props
+D:\API\Beautiful.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Beautiful.API.props
+D:\API\Beautiful.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Beautiful.API.props
+D:\API\Beautiful.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\API\Beautiful.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\API\Beautiful.API\obj\Debug\net8.0\Beautifu.920445F4.Up2Date
+D:\API\Beautiful.API\obj\Debug\net8.0\Beautiful.API.dll
+D:\API\Beautiful.API\obj\Debug\net8.0\refint\Beautiful.API.dll
+D:\API\Beautiful.API\obj\Debug\net8.0\Beautiful.API.pdb
+D:\API\Beautiful.API\obj\Debug\net8.0\Beautiful.API.genruntimeconfig.cache
+D:\API\Beautiful.API\obj\Debug\net8.0\ref\Beautiful.API.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Beautiful.API.staticwebassets.endpoints.json
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Beautiful.API.exe
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Beautiful.API.deps.json
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Beautiful.API.runtimeconfig.json
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Beautiful.API.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Beautiful.API.pdb
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\Beautiful.API.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\Beautiful.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\Beautiful.API.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\Beautiful.API.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\Beautiful.API.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\Beautiful.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\Beautiful.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\scopedcss\bundle\Beautiful.API.styles.css
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\Beautifu.920445F4.Up2Date
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\Beautiful.API.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\refint\Beautiful.API.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\Beautiful.API.pdb
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\Beautiful.API.genruntimeconfig.cache
+C:\Users\Dell\Desktop\New folder\Beautiful.API\obj\Debug\net8.0\ref\Beautiful.API.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Dell\Desktop\New folder\Beautiful.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\appsettings.json
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Beautiful.API.staticwebassets.endpoints.json
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Beautiful.API.exe
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Beautiful.API.deps.json
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Beautiful.API.runtimeconfig.json
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Beautiful.API.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Beautiful.API.pdb
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Students_Aps\Beautiful.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\Beautiful.API.csproj.AssemblyReference.cache
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\Beautiful.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\Beautiful.API.AssemblyInfoInputs.cache
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\Beautiful.API.AssemblyInfo.cs
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\Beautiful.API.csproj.CoreCompileInputs.cache
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\Beautiful.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\Beautiful.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\Beautiful.API.sourcelink.json
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\scopedcss\bundle\Beautiful.API.styles.css
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\staticwebassets\msbuild.Beautiful.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\staticwebassets\msbuild.Beautiful.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Beautiful.API.props
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Beautiful.API.props
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Beautiful.API.props
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\Beautifu.920445F4.Up2Date
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\Beautiful.API.dll
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\refint\Beautiful.API.dll
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\Beautiful.API.pdb
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\Beautiful.API.genruntimeconfig.cache
+D:\Students_Aps\Beautiful.API\obj\Debug\net8.0\ref\Beautiful.API.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\appsettings.Development.json
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\appsettings.json
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Beautiful.API.staticwebassets.endpoints.json
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Beautiful.API.exe
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Beautiful.API.deps.json
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Beautiful.API.runtimeconfig.json
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Beautiful.API.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Beautiful.API.pdb
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Azure.Core.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\System.ClientModel.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\System.Text.Json.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\AV_Data_Api\Av_Sample_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\Beautiful.API.csproj.AssemblyReference.cache
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\Beautiful.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\Beautiful.API.AssemblyInfoInputs.cache
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\Beautiful.API.AssemblyInfo.cs
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\Beautiful.API.csproj.CoreCompileInputs.cache
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\Beautiful.API.MvcApplicationPartsAssemblyInfo.cs
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\Beautiful.API.MvcApplicationPartsAssemblyInfo.cache
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\Beautiful.API.sourcelink.json
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\scopedcss\bundle\Beautiful.API.styles.css
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\staticwebassets\msbuild.Beautiful.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\staticwebassets\msbuild.Beautiful.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Beautiful.API.props
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Beautiful.API.props
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Beautiful.API.props
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\Beautifu.920445F4.Up2Date
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\Beautiful.API.dll
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\refint\Beautiful.API.dll
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\Beautiful.API.pdb
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\Beautiful.API.genruntimeconfig.cache
+D:\AV_Data_Api\Av_Sample_Api\obj\Debug\net8.0\ref\Beautiful.API.dll
